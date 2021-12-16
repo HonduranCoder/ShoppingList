@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-color: hsl(245, 77%, 8%);
+  color: antiquewhite;
+}
+
+button {
+  background-color: aquamarine;
+  color: hsl(245, 77%, 8%);
+}
